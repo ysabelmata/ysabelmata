@@ -14,9 +14,6 @@ Soy un Analista de Datos Junior con un fuerte enfoque en la obtención de inform
 - **Herramientas de Hoja de Cálculo:** Google Sheets, Excel
 - **Otros:** Git, GitHub
 
-## 📂 **Proyectos Destacados**
-
-
 ## 🔗 **Enlaces de Interés**
 
 - **LinkedIn:** [(https://www.linkedin.com/in/ysabelmata/)]
